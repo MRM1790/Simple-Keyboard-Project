@@ -1,0 +1,75 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C4, C7",805,3,1uF,C28323
+"C2, C3",805,2,22pF,C1804
+"C5, C6",805,2,10uF,C380332
+C8,805,1,0.1uF,C17356222
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D6, D60, D61, D62, D7, D8, D9",D_SOD-123,62,1N4148,C2099
+D63,201,1,Red,C9900221497
+F1,1206,1,500mA,C20799
+J2,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_16P,C2927036
+"R1, R2",805,2,5.1K,C27834
+"R3, R4",805,2,22ohms,C3017752
+"R5, R7",805,2,10K,C17414
+R6,805,1,1Kohms,C2889437
+SW1,Hotswap_MX_Plated_1.00u,1,Esc/Acc,C2803348
+SW10,Hotswap_MX_Plated_1.00u,1,9(,C2803348
+SW11,Hotswap_MX_Plated_1.00u,1,0),C2803348
+SW12,Hotswap_MX_Plated_1.00u,1,-_,C2803348
+SW13,Hotswap_MX_Plated_1.00u,1,=+,C2803348
+SW14,Hotswap_MX_Plated_1.00u,1,BS,C2803348
+SW15,Hotswap_MX_Plated_1.00u,1,Tab,C2803348
+SW16,Hotswap_MX_Plated_1.00u,1,Q,C2803348
+SW17,Hotswap_MX_Plated_1.00u,1,W,C2803348
+SW18,Hotswap_MX_Plated_1.00u,1,E,C2803348
+SW19,Hotswap_MX_Plated_1.00u,1,R,C2803348
+SW2,Hotswap_MX_Plated_1.00u,1,1!,C2803348
+SW20,Hotswap_MX_Plated_1.00u,1,T,C2803348
+SW21,Hotswap_MX_Plated_1.00u,1,Y,C2803348
+SW22,Hotswap_MX_Plated_1.00u,1,U,C2803348
+SW23,Hotswap_MX_Plated_1.00u,1,I,C2803348
+SW24,Hotswap_MX_Plated_1.00u,1,O,C2803348
+SW25,Hotswap_MX_Plated_1.00u,1,P,C2803348
+SW26,Hotswap_MX_Plated_1.00u,1,[{,C2803348
+SW27,Hotswap_MX_Plated_1.00u,1,}],C2803348
+SW28,Hotswap_MX_Plated_1.00u,1,|\,C2803348
+SW29,Hotswap_MX_Plated_1.00u,1,Caps LK,C2803348
+SW3,Hotswap_MX_Plated_1.00u,1,2@,C2803348
+SW30,Hotswap_MX_Plated_1.00u,1,A,C2803348
+SW31,Hotswap_MX_Plated_1.00u,1,S,C2803348
+SW32,Hotswap_MX_Plated_1.00u,1,D,C2803348
+SW33,Hotswap_MX_Plated_1.00u,1,F,C2803348
+SW34,Hotswap_MX_Plated_1.00u,1,G,C2803348
+SW35,Hotswap_MX_Plated_1.00u,1,H,C2803348
+SW36,Hotswap_MX_Plated_1.00u,1,J,C2803348
+SW37,Hotswap_MX_Plated_1.00u,1,K,C2803348
+SW38,Hotswap_MX_Plated_1.00u,1,L,C2803348
+SW39,Hotswap_MX_Plated_1.00u,1,:;,C2803348
+SW4,Hotswap_MX_Plated_1.00u,1,3#,C2803348
+SW40,Hotswap_MX_Plated_1.00u,1,"'""",C2803348
+SW41,Hotswap_MX_Plated_1.00u,1,Enter,C2803348
+SW42,Hotswap_MX_Plated_1.00u,1,Shift,C2803348
+SW43,Hotswap_MX_Plated_1.00u,1,Z,C2803348
+SW44,Hotswap_MX_Plated_1.00u,1,X,C2803348
+SW45,Hotswap_MX_Plated_1.00u,1,C,C2803348
+SW46,Hotswap_MX_Plated_1.00u,1,V,C2803348
+SW47,Hotswap_MX_Plated_1.00u,1,B,C2803348
+SW48,Hotswap_MX_Plated_1.00u,1,N,C2803348
+SW49,Hotswap_MX_Plated_1.00u,1,M,C2803348
+SW5,Hotswap_MX_Plated_1.00u,1, $4.00 ,C2803348
+SW50,Hotswap_MX_Plated_1.00u,1,<.,C2803348
+SW51,Hotswap_MX_Plated_1.00u,1,>.,C2803348
+SW52,Hotswap_MX_Plated_1.00u,1,?/,C2803348
+SW53,Hotswap_MX_Plated_1.00u,1,Shift (Right),C2803348
+"SW54, SW61",Hotswap_MX_Plated_1.00u,2,Ctrl,C2803348
+"SW55, SW60",Hotswap_MX_Plated_1.00u,2,Windows,C2803348
+"SW56, SW58",Hotswap_MX_Plated_1.00u,2,Alt,C2803348
+SW57,Hotswap_MX_Plated_1.00u,1,Spacebar,C2803348
+SW59,Hotswap_MX_Plated_1.00u,1,Function,C2803348
+SW6,Hotswap_MX_Plated_1.00u,1,5%,C2803348
+SW67,SW_SPST_SKQG_WithStem,1,Reset Switch,C2886894
+SW7,Hotswap_MX_Plated_1.00u,1,6^,C2803348
+SW8,Hotswap_MX_Plated_1.00u,1,7&,C2803348
+SW9,Hotswap_MX_Plated_1.00u,1,8*,C2803348
+U1,TQFP-44_10x10mm_P0.8mm,1,ATmega32U4-A,C44854
+U2,SOT-23-5,1,MIC5219-2.5YM5,C18212648
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,16MHZ,C112972
