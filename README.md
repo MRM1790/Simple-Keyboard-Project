@@ -6,3 +6,5 @@ ATTENTION:
   For the BOM files, designators, and CPL we recommended ordering through JLC PCB since it is configured in their version of excel and ordering process.
   QMK Toolbox will be needed to upload the code in the circuit board which a link will be provided here
   https://qmk.fm/toolbox
+
+ATTENTION: THE SOFTWARE FOR THE KEYBOARD IS LABELED AS BOTH "KEYBOARD.JSON" AND "KEYMAP C" AND THE MAIN THING THAT YOU WILL NEED IS THE FILE THAT SAYS "jam61_default.HEX" then you will plug that into the QMK Toolbox application, and press the reset button on the circuit board in order to flash it. Once you hit the reset button in Toolbox hit flash prompt and the Hex file will go into the circuit.
